@@ -1,1 +1,1 @@
-### Spectrum Aided Vision Enhancer in Capsule Endoscopy
+### Enhancing Early GI Disease Detection with Spectral Visualization and Deep Learning
